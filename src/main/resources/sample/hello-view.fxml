@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.shape.Rectangle?>
+
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.control.Button?>
+<AnchorPane prefHeight="800.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" >
+    <Rectangle layoutX="180" layoutY="100" width="80" height="80" fill="#ffefd5"/>
+    <Rectangle layoutX="180" layoutY="260" width="80" height="80" fill="#ffefd5"/>
+    <Rectangle layoutX="180" layoutY="420" width="80" height="80" fill="#ffefd5"/>
+    <Rectangle layoutX="180" layoutY="580" width="80" height="80" fill="#ffefd5"/>
+
+    <Rectangle layoutX="180" layoutY="180" width="80" height="80" fill="#8b4513"/>
+    <Rectangle layoutX="180" layoutY="340" width="80" height="80" fill="#8b4513"/>
+    <Rectangle layoutX="180" layoutY="500" width="80" height="80" fill="#8b4513"/>
+    <Rectangle layoutX="180" layoutY="660" width="80" height="80" fill="#8b4513"/>
+
+    <Rectangle layoutX="260" layoutY="180" width="80" height="80" fill="#ffefd5"/>
+    <Rectangle layoutX="260" layoutY="340" width="80" height="80" fill="#ffefd5"/>
+    <Rectangle layoutX="260" layoutY="500" width="80" height="80" fill="#ffefd5"/>
+    <Rectangle layoutX="260" layoutY="660" width="80" height="80" fill="#ffefd5"/>
+
+    <Rectangle layoutX="260" layoutY="100" width="80" height="80" fill="#8b4513"/>
+    <Rectangle layoutX="260" layoutY="260" width="80" height="80" fill="#8b4513"/>
+    <Rectangle layoutX="260" layoutY="420" width="80" height="80" fill="#8b4513"/>
+    <Rectangle layoutX="260" layoutY="580" width="80" height="80" fill="#8b4513"/>
+
+    <Rectangle layoutX="340" layoutY="100" width="80" height="80" fill="#ffefd5"/>
+    <Rectangle layoutX="340" layoutY="260" width="80" height="80" fill="#ffefd5"/>
+    <Rectangle layoutX="340" layoutY="420" width="80" height="80" fill="#ffefd5"/>
+    <Rectangle layoutX="340" layoutY="580" width="80" height="80" fill="#ffefd5"/>
+
+    <Rectangle layoutX="340" layoutY="180" width="80" height="80" fill="#8b4513"/>
+    <Rectangle layoutX="340" layoutY="340" width="80" height="80" fill="#8b4513"/>
+    <Rectangle layoutX="340" layoutY="500" width="80" height="80" fill="#8b4513"/>
+    <Rectangle layoutX="340" layoutY="660" width="80" height="80" fill="#8b4513"/>
+
+    <Rectangle layoutX="420" layoutY="180" width="80" height="80" fill="#ffefd5"/>
+    <Rectangle layoutX="420" layoutY="340" width="80" height="80" fill="#ffefd5"/>
+    <Rectangle layoutX="420" layoutY="500" width="80" height="80" fill="#ffefd5"/>
+    <Rectangle layoutX="420" layoutY="660" width="80" height="80" fill="#ffefd5"/>
+
+    <Rectangle layoutX="420" layoutY="100" width="80" height="80" fill="#8b4513"/>
+    <Rectangle layoutX="420" layoutY="260" width="80" height="80" fill="#8b4513"/>
+    <Rectangle layoutX="420" layoutY="420" width="80" height="80" fill="#8b4513"/>
+    <Rectangle layoutX="420" layoutY="580" width="80" height="80" fill="#8b4513"/>
+
+    <Rectangle layoutX="500" layoutY="100" width="80" height="80" fill="#ffefd5"/>
+    <Rectangle layoutX="500" layoutY="260" width="80" height="80" fill="#ffefd5"/>
+    <Rectangle layoutX="500" layoutY="420" width="80" height="80" fill="#ffefd5"/>
+    <Rectangle layoutX="500" layoutY="580" width="80" height="80" fill="#ffefd5"/>
+
+    <Rectangle layoutX="500" layoutY="180" width="80" height="80" fill="#8b4513"/>
+    <Rectangle layoutX="500" layoutY="340" width="80" height="80" fill="#8b4513"/>
+    <Rectangle layoutX="500" layoutY="500" width="80" height="80" fill="#8b4513"/>
+    <Rectangle layoutX="500" layoutY="660" width="80" height="80" fill="#8b4513"/>
+
+    <Rectangle layoutX="580" layoutY="180" width="80" height="80" fill="#ffefd5"/>
+    <Rectangle layoutX="580" layoutY="340" width="80" height="80" fill="#ffefd5"/>
+    <Rectangle layoutX="580" layoutY="500" width="80" height="80" fill="#ffefd5"/>
+    <Rectangle layoutX="580" layoutY="660" width="80" height="80" fill="#ffefd5"/>
+
+    <Rectangle layoutX="580" layoutY="100" width="80" height="80" fill="#8b4513"/>
+    <Rectangle layoutX="580" layoutY="260" width="80" height="80" fill="#8b4513"/>
+    <Rectangle layoutX="580" layoutY="420" width="80" height="80" fill="#8b4513"/>
+    <Rectangle layoutX="580" layoutY="580" width="80" height="80" fill="#8b4513"/>
+
+    <Rectangle layoutX="660" layoutY="100" width="80" height="80" fill="#ffefd5"/>
+    <Rectangle layoutX="660" layoutY="260" width="80" height="80" fill="#ffefd5"/>
+    <Rectangle layoutX="660" layoutY="420" width="80" height="80" fill="#ffefd5"/>
+    <Rectangle layoutX="660" layoutY="580" width="80" height="80" fill="#ffefd5"/>
+
+    <Rectangle layoutX="660" layoutY="180" width="80" height="80" fill="#8b4513"/>
+    <Rectangle layoutX="660" layoutY="340" width="80" height="80" fill="#8b4513"/>
+    <Rectangle layoutX="660" layoutY="500" width="80" height="80" fill="#8b4513"/>
+    <Rectangle layoutX="660" layoutY="660" width="80" height="80" fill="#8b4513"/>
+
+    <Rectangle layoutX="740" layoutY="180" width="80" height="80" fill="#ffefd5"/>
+    <Rectangle layoutX="740" layoutY="340" width="80" height="80" fill="#ffefd5"/>
+    <Rectangle layoutX="740" layoutY="500" width="80" height="80" fill="#ffefd5"/>
+    <Rectangle layoutX="740" layoutY="660" width="80" height="80" fill="#ffefd5"/>
+
+    <Rectangle layoutX="740" layoutY="100" width="80" height="80" fill="#8b4513"/>
+    <Rectangle layoutX="740" layoutY="260" width="80" height="80" fill="#8b4513"/>
+    <Rectangle layoutX="740" layoutY="420" width="80" height="80" fill="#8b4513"/>
+    <Rectangle layoutX="740" layoutY="580" width="80" height="80" fill="#8b4513"/>
+
+    <Line layoutX="180" layoutY="100" endX="640" />
+    <Line layoutX="180" layoutY="100" endY="640" />
+    <Line layoutX="820" layoutY="740" endY="-640" />
+    <Line layoutX="820" layoutY="740" endX="-640" />
+
+    <Circle layoutX="220" layoutY="540" radius="31" />
+    <Circle fx:id="circle1" layoutX="220" layoutY="540" radius="30" fill="#ffffff"/>
+    <Circle layoutX="380" layoutY="540" radius="31" />
+    <Circle layoutX="380" layoutY="540" radius="30" fill="#ffffff"/>
+    <Circle layoutX="540" layoutY="540" radius="31" />
+    <Circle layoutX="540" layoutY="540" radius="30" fill="#ffffff"/>
+    <Circle layoutX="700" layoutY="540" radius="31" />
+    <Circle layoutX="700" layoutY="540" radius="30" fill="#ffffff"/>
+
+    <Circle layoutX="300" layoutY="620" radius="31" />
+    <Circle layoutX="300" layoutY="620" radius="30" fill="#ffffff"/>
+    <Circle layoutX="460" layoutY="620" radius="31" />
+    <Circle layoutX="460" layoutY="620" radius="30" fill="#ffffff"/>
+    <Circle layoutX="620" layoutY="620" radius="31" />
+    <Circle layoutX="620" layoutY="620" radius="30" fill="#ffffff"/>
+    <Circle layoutX="780" layoutY="620" radius="31" />
+    <Circle layoutX="780" layoutY="620" radius="30" fill="#ffffff"/>
+
+    <Circle layoutX="220" layoutY="700" radius="31" />
+    <Circle layoutX="220" layoutY="700" radius="30" fill="#ffffff"/>
+    <Circle layoutX="380" layoutY="700" radius="31" />
+    <Circle layoutX="380" layoutY="700" radius="30" fill="#ffffff"/>
+    <Circle layoutX="540" layoutY="700" radius="31" />
+    <Circle layoutX="540" layoutY="700" radius="30" fill="#ffffff"/>
+    <Circle layoutX="700" layoutY="700" radius="31" />
+    <Circle layoutX="700" layoutY="700" radius="30" fill="#ffffff"/>
+
+    <Circle layoutX="220" layoutY="220" radius="31" />
+    <Circle layoutX="380" layoutY="220" radius="31" />
+    <Circle layoutX="540" layoutY="220" radius="31" />
+    <Circle layoutX="700" layoutY="220" radius="31" />
+
+    <Circle layoutX="300" layoutY="140" radius="31" />
+    <Circle layoutX="460" layoutY="140" radius="31" />
+    <Circle layoutX="620" layoutY="140" radius="31" />
+    <Circle layoutX="780" layoutY="140" radius="31" />
+
+    <Circle layoutX="300" layoutY="300" radius="31" />
+    <Circle layoutX="460" layoutY="300" radius="31" />
+    <Circle layoutX="620" layoutY="300" radius="31" />
+    <Circle layoutX="780" layoutY="300" radius="31" />
+</AnchorPane>
